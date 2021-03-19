@@ -99,6 +99,8 @@ body {
 }
 
 .attribution {
+    position: fixed;
+    bottom: 0;
     margin: 1rem;
     font-size: 11px;
     text-align: center;
